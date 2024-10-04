@@ -1,12 +1,12 @@
 
-### Veri Analizi ve Görselleştirme Projeleri
+# Veri Analizi ve Görselleştirme Projeleri
 
-**Proje Genel Bakış**
+### **Proje Genel Bakış**
 
 Bu depo, Pandas, NumPy ve Matplotlib gibi Python kütüphanelerini kullanarak yapılan çeşitli veri analizi ve görselleştirme projelerini içermektedir. Amacımız, farklı veri setlerini keşfetmek, veri temizliği ve analizi yapmak ve elde edilen bulguları görselleştirmektir.
 
 
-**Kullanılan Teknolojiler**
+### **Kullanılan Teknolojiler**
 
 **Python:** Ana programlama dili.
 
@@ -19,7 +19,7 @@ Bu depo, Pandas, NumPy ve Matplotlib gibi Python kütüphanelerini kullanarak ya
 **Jupyter Notebook:** Etkileşimli kodlama ve görselleştirme için.
 
 
-**Projeler**
+### **Projeler**
 
 **Pandas Temelleri:** Pandas kullanarak veri manipülasyonuna giriş. Veri yükleme, temizleme ve temel analiz işlemlerine odaklanır.
 
