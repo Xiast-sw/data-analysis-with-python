@@ -1,8 +1,7 @@
-# data-analysis-with-python
 
-###Veri Analizi ve Görselleştirme Projeleri
+### Veri Analizi ve Görselleştirme Projeleri
 
-##**Proje Genel Bakış**
+**Proje Genel Bakış**
 
 Bu depo, Pandas, NumPy ve Matplotlib gibi Python kütüphanelerini kullanarak yapılan çeşitli veri analizi ve görselleştirme projelerini içermektedir. Amacımız, farklı veri setlerini keşfetmek, veri temizliği ve analizi yapmak ve elde edilen bulguları görselleştirmektir.
 
@@ -23,5 +22,7 @@ Bu depo, Pandas, NumPy ve Matplotlib gibi Python kütüphanelerini kullanarak ya
 **Projeler**
 
 **Pandas Temelleri:** Pandas kullanarak veri manipülasyonuna giriş. Veri yükleme, temizleme ve temel analiz işlemlerine odaklanır.
+
 **NumPy Dizileri:** NumPy dizileri ile matematiksel işlemleri nasıl yapacağınızı gösterir.
+
 **Matplotlib ile Veri Görselleştirme:** Veri eğilimlerini görselleştirmek için çeşitli grafik türleri (çizgi, çubuk, dağılım grafikleri) oluşturma.
