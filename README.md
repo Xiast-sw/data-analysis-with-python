@@ -1,12 +1,12 @@
 
 # Data Analysis and Visualization Projects
 
-## Proje Genel Bakış
+## Project Overview
 
-Bu depo, Pandas, NumPy ve Matplotlib gibi Python kütüphanelerini kullanarak yapılan çeşitli veri analizi ve görselleştirme projelerini içermektedir. Amacımız, farklı veri setlerini keşfetmek, veri temizliği ve analizi yapmak ve elde edilen bulguları görselleştirmektir.
+This repository contains various data analysis and visualization projects using Python libraries such as Pandas, NumPy, and Matplotlib. Our goal is to explore different datasets, perform data cleaning and analysis, and visualize the findings.
 
 
-## **Kullanılan Teknolojiler**
+## Kullanılan Teknolojiler
 
 **Python:** Ana programlama dili.
 
