@@ -21,5 +21,6 @@ This repository contains various data analysis and visualization projects using 
 - NumPy Arrays: Demonstrates how to perform mathematical operations with NumPy arrays.
 - Data Visualization with Matplotlib: Creating various chart types (line, bar, scatter plots) to visualize data trends.
 
-## Lisans
-MIT Lisansı
+## License
+
+MIT License
