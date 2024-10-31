@@ -1,5 +1,5 @@
 
-# Veri Analizi ve Görselleştirme Projeleri
+# Data Analysis and Visualization Projects
 
 ## **Proje Genel Bakış**
 
