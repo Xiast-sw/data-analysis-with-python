@@ -15,7 +15,7 @@ This repository contains various data analysis and visualization projects using 
 - Jupyter Notebook: For interactive coding and visualization.
 
 
-## **Projeler**
+## Projeler
 
 **Pandas Temelleri:** Pandas kullanarak veri manipülasyonuna giriş. Veri yükleme, temizleme ve temel analiz işlemlerine odaklanır.
 
