@@ -15,13 +15,11 @@ This repository contains various data analysis and visualization projects using 
 - Jupyter Notebook: For interactive coding and visualization.
 
 
-## Projeler
+## Projects
 
-**Pandas Temelleri:** Pandas kullanarak veri manipülasyonuna giriş. Veri yükleme, temizleme ve temel analiz işlemlerine odaklanır.
-
-**NumPy Dizileri:** NumPy dizileri ile matematiksel işlemleri nasıl yapacağınızı gösterir.
-
-**Matplotlib ile Veri Görselleştirme:** Veri eğilimlerini görselleştirmek için çeşitli grafik türleri (çizgi, çubuk, dağılım grafikleri) oluşturma.
+- Pandas Basics: Introduction to data manipulation using Pandas, focusing on data loading, cleaning, and basic analysis operations.
+- NumPy Arrays: Demonstrates how to perform mathematical operations with NumPy arrays.
+- Data Visualization with Matplotlib: Creating various chart types (line, bar, scatter plots) to visualize data trends.
 
 ## Lisans
 MIT Lisansı
