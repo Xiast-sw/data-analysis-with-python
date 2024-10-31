@@ -1,7 +1,7 @@
 
 # Data Analysis and Visualization Projects
 
-## **Proje Genel Bakış**
+## Proje Genel Bakış
 
 Bu depo, Pandas, NumPy ve Matplotlib gibi Python kütüphanelerini kullanarak yapılan çeşitli veri analizi ve görselleştirme projelerini içermektedir. Amacımız, farklı veri setlerini keşfetmek, veri temizliği ve analizi yapmak ve elde edilen bulguları görselleştirmektir.
 
